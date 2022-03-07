@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryrabelo" alt="aryrabelo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryrabelo" target="blank"><img src="https://img.shields.io/twitter/follow/aryrabelo?logo=twitter&style=for-the-badge" alt="aryrabelo" /></a> </p>
-
-- 🔭 I’m currently working on **FlowSpace**
+- 🔭 I’m currently working at **FlowSpace**
 
 - 💬 Ask me about **Ruby, React, GraphQL and Cypress**
 
