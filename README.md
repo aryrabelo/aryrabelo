@@ -77,24 +77,6 @@ interests:
 
 ---
 
-### GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryrabelo&theme=2077" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryrabelo&theme=2077" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryrabelo&theme=2077" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryrabelo&theme=2077&utcOffset=-3" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryrabelo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryrabelo&theme=2077" />
+  <i>Most of my work lives in private repositories.</i>
 </div>
