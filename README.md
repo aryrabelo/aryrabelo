@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Automation+Enthusiast;20%2B+Years+of+Experience;Building+the+Future+with+Code+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=Senior+Full-Stack+Software+Engineer;Ruby+on+Rails+%2B+React+%2B+AI;20%2B+Years+of+Experience;Building+the+Future+with+Code+%26+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,15 +18,15 @@
 
 ```yaml
 name: Ary Rabelo
-role: Full-Stack Software Engineer
+role: Senior Full-Stack Software Engineer
 company: Canix
 location: Brazil
 experience: 20+ years
 
 currently:
-  - Building AI-powered tools and automation workflows
+  - Building scalable apps with Ruby on Rails & React
   - Working with Claude Code, LLMs, and AI agents
-  - Developing products with modern TypeScript stacks
+  - Deploying on Cloudflare (Workers, Pages, D1, R2)
 
 interests:
   - Artificial Intelligence & LLMs
@@ -65,10 +65,14 @@ interests:
   <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-**DevOps & Tools**
+**Cloud & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,git,github,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
