@@ -80,20 +80,21 @@ interests:
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryrabelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryrabelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryrabelo&theme=2077" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryrabelo&theme=2077" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryrabelo&theme=2077" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryrabelo&theme=2077&utcOffset=-3" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryrabelo&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryrabelo&theme=algolia&no-frame=true&no-bg=true&column=6" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryrabelo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryrabelo&theme=2077" />
 </div>
