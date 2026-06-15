@@ -1,7 +1,9 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/banner-dark.png">
+  <img alt="Ary Rabelo — Senior Full-Stack Engineer · Ruby on Rails since 2012 · Remote, Brazil" src="./.github/banner-light.png" width="100%">
+</picture>
 
-# Ary Rabelo
-### Senior Full-Stack Engineer · Ruby on Rails since 2012 · Remote from Brazil (US overlap)
+<div align="center">
 
 <a href="https://linkedin.com/in/aryrabelo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/aryrabelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
